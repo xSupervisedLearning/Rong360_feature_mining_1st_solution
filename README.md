@@ -2,4 +2,6 @@
 
 特征工程在feature_engineering.ipynb中  
 代码详细说明介绍见报告  
-如需可复现的代码及数据请发邮件至yanhao2013@buaa.edu.cn  
+
+数据下载链接:https://pan.baidu.com/s/1vk_ASzdZUcLOFZmWFi_28g 提取码: qfb2
+
